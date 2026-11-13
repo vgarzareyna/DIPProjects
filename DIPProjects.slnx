@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="DIPProjects.App/DIPProjects.App.csproj" />
+  <Project Path="DIPProjects.Documents/DIPProjects.Documents.csproj" />
+  <Project Path="DIPProjects.Storage.Azure/DIPProjects.Storage.Azure.csproj" />
+  <Project Path="DIPProjects.Storage.SharePoint/DIPProjects.Storage.SharePoint.csproj" />
+</Solution>
